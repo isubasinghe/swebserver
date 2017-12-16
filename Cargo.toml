@@ -1,0 +1,10 @@
+[package]
+name = "swebserver"
+version = "0.1.0"
+authors = ["Isitha Subasinghe <isubasinghe@users.noreply.github.com>"]
+
+[dependencies]
+threadpool = "1.7.1"
+winapi = "*"
+user32-sys = "*"
+kernel32-sys = "*"
